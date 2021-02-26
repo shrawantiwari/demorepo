@@ -6,4 +6,4 @@ eureka:
     register-with-eureka: true
 
 
-greeting=Hello From Config Server Application
+greeting: Hello From Config Server Application
